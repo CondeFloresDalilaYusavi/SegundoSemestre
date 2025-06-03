@@ -1,0 +1,5 @@
+registro = ListaEmpleados()
+registro.agregar("Laura")
+registro.agregar("Carlos")
+registro.agregar("Laura")
+registro.mostrar()
